@@ -2,7 +2,8 @@
 "version_name":"1.0.1",
 "version_code":"101",
 "app_url":"https://raw.githubusercontent.com/samuelhehe/HealthLineView/master/Point.java",
+"qr_code":"https://raw.githubusercontent.com/samuelhehe/HealthLineView/master/1546047269.png",
 "enable":true,
-"force_update":false
+"force_update":false,
 "version_desc":"xxx"
 }
